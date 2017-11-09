@@ -1,3 +1,4 @@
 .ipynb_checkpoints/
 .*.crc
-trumptweet/
+*.txt/
+*.parquet/
