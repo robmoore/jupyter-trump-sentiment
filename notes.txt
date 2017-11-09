@@ -37,3 +37,9 @@ for data in emot.emoji(text):
 for data in emot.emoticons(text):
     text = text.replace(data['value'], '')
 text.rstrip()
+--
+data processing:
+- add column X.2 after X in header
+- remove column X (could do in code)
+- Use "" instead of \"
+- load as Windows-1252
