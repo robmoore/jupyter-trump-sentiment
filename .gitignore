@@ -1,4 +1,7 @@
 .ipynb_checkpoints/
 .*.crc
-*.txt/
+train-data/
 *.parquet/
+trumptweet_mod.csv
+emojis.csv
+*.csv/
